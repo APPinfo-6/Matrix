@@ -1,0 +1,3 @@
+/Users/ziruichen/Documents/CPP/projet_cours/CMakeFiles/rebuild_cache.dir
+/Users/ziruichen/Documents/CPP/projet_cours/CMakeFiles/edit_cache.dir
+/Users/ziruichen/Documents/CPP/projet_cours/CMakeFiles/projet_cours.dir

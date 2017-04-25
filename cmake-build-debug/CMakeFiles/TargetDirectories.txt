@@ -1,0 +1,3 @@
+/Users/ziruichen/Documents/CPP/projet_cours/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ziruichen/Documents/CPP/projet_cours/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ziruichen/Documents/CPP/projet_cours/cmake-build-debug/CMakeFiles/projet_cours.dir
